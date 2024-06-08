@@ -86,7 +86,7 @@ Each image highlights the areas most influential for the model's predictions.
 A Streamlit web app (`demo apple disease.py`) allows users to upload an image and receive model predictions in a user-friendly interface.
 
 ```bash
-streamlit run demo.py
+streamlit run "demo apple_desease.py"
 ```
 Result: 
 ![Streamlit demo](/data/plots/streamlit.png)
