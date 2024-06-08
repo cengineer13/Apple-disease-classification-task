@@ -9,7 +9,7 @@ To set up the project environment:
 #### 1-method
 
 ```bash
-git clone https://github.com/cengineer13/Apple-disease-classification-.git
+git clone https://github.com/cengineer13/Apple-disease-classification-task.git
 cd Apple-disease-classification
 ```
 
@@ -110,4 +110,4 @@ We welcome contributions from the community. Please read the contributing guidel
 
 Mr Murodil  - murodild@gmail.com
 LinkedIn - https://www.linkedin.com/in/mr-murodil
-Project Link: [https://github.com/cengineer13/brain-ct-classification](https://github.com/cengineer13/Apple-disease-classification-)
+Project Link: [https://github.com/cengineer13/brain-ct-classification](https://github.com/cengineer13/Apple-disease-classification-task)
